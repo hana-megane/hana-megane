@@ -1,14 +1,27 @@
 
 # 自己紹介
 
-- 中規模Webメディアにて開発してます
+- 中規模トラフィック(1000万PV以上/月)のWebメディアにて開発してます
 - フロントエンド・バックエンド・データ基盤まわりがメインです
 - ユーザーフレンドリー・表示スピード・SEOを意識した実装をします
 
 ## 技術
 - Ruby on Rails
 - HTML, CSS, JavaScript
-- SQL + BigQuery
+- SQL
+- AWS
+  - Route53
+  - ALB
+  - WAF
+  - OpenSearch
+  - Opsworks
+  - Redis/Memcached
+  - EC2
+  - RDS
+- GCP
+  - BigQuery
+- BIツール
+  - LookerStudio  
 
 ## 開発例
 
