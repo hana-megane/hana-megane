@@ -58,10 +58,19 @@ graph LR;
     SIer会社 --> Webメディア会社;
 ```
 
-## 特技　・スキル
+## 資格・特技・スキル
 - TOEIC 860
 - TOEFL iBT 81
+- 基本情報技術者
 
 ## Editor
 - Visual Studio Code
 - Vim
+
+# プライベート
+
+## 趣味
+- マンションウオッチ
+- 株
+- ラブコメ漫画
+- エレキギター
