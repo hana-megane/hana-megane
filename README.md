@@ -1,4 +1,27 @@
 
+# 自己紹介
+
+- 中規模Webメディアにて開発してます
+- フロントエンド・バックエンド・データ基盤まわりがメインです
+- ユーザーフレンドリー・表示スピード・SEOを意識した実装をします
+
+## 技術
+- Ruby on Rails
+- HTML, CSS, JavaScript
+- SQL + BigQuery
+
+## 開発例
+
+### 実装周り
+- ユーザー表示画面側の実装(社内要件定義 ~ 実装)
+
+### データ基盤
+- Google Analytics 4 の導入 ~ LookerStudioを使用したBIレポート作成
+- ビジネス要求から逆算したイベントデータ発火プログラム設置 & レポート
+- コスト最適化したデータ分析設計
+
+# 履歴書
+
 ## 学歴
 ```mermaid
 graph LR;
@@ -14,16 +37,7 @@ graph LR;
     SIer会社 --> Webメディア会社;
 ```
 
-
-- 👋 Hi, I’m @hana-megane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-hana-megane/hana-megane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 特技　・スキル
+- TOEIC 860
+- TOEFL iBT 81
+- 
