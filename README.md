@@ -74,3 +74,19 @@ graph LR;
 - 株
 - ラブコメ漫画
 - エレキギター
+
+## 住まい
+横浜市内
+
+```geojson
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [139.6380, 35.4437]
+  },
+  "properties": {
+    "name": "Yokohama"
+  }
+}
+```
