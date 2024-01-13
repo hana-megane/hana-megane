@@ -1,7 +1,8 @@
 
 # 自己紹介
 
-- 中規模トラフィック(1000万PV以上/月)のWebメディアにて開発してます
+- 中規模トラフィック(1000万PV以上/月)のWebメディアにて開発してます.
+- システムの責任者なので技術選定やissueの優先度、対応方針の意思決定などもやります
 - フロントエンド・バックエンド・データ基盤まわりがメインです
 - ユーザーフレンドリー・表示スピード・SEOを意識したシステムアーキテクト・実装をします
 - サーバーダウンなどの障害は迅速に確認と影響程度をビジネスサイドに共有後、改善用デプロイをおこないます
@@ -10,7 +11,7 @@
 ## 技術
 - Ruby on Rails
 - HTML, CSS, JavaScript
-- SQL
+- MySQL
 - AWS
   - Route53
   - ALB
@@ -24,7 +25,10 @@
 - GCP
   - BigQuery
 - BIツール
-  - LookerStudio  
+  - LookerStudio
+- その他
+  - rollbar
+  - imgix
 
 ## 職務例
 
@@ -57,3 +61,7 @@ graph LR;
 ## 特技　・スキル
 - TOEIC 860
 - TOEFL iBT 81
+
+## Editor
+- Visual Studio Code
+- Vim
